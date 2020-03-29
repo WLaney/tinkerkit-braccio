@@ -2,7 +2,7 @@
 
 This repository contains guides, advice, and code for using the Tinkerkit Braccio robot arm. The Braccio is a low cost 6 degree of freedom robot manipulator arm made to be used with Arduino.
 
-The target audience of this guide is Cornell ECE students looking to use this robot in projects. Thank you Professor Skovia for lending me this Braccio.
+The target audience of this guide is Cornell ECE students looking to use this robot in projects. Thank you [Professor Skovira](https://skovira.ece.cornell.edu/) for lending me this Braccio.
 
 If you have any questions or issues please create an issue on this repository.
 
