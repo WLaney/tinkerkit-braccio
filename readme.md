@@ -8,12 +8,12 @@ If you have any questions or issues please create an issue on this repository.
 
 ## Guides
 
-* [Servo Allignment](allignment.md)
+* [Servo Alignment](alignment.md)
 * [Assembly](assembly.md)
 
 ## Quick Hints
 
-* Read the [notes on allignment](allignment.md) before building the arm
+* Read the [notes on alignment](alignment.md) before building the arm
 * The kit only contains extra screws for one of the screw sizes. Be carful, don't lose screws
 * The wooden base of the arm does not hold it steady when moving quickly. Clamp the base to a table, or hold onto it
 
