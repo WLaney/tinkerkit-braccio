@@ -2,7 +2,7 @@
 
 The image below shows the alignment of my arm after assembly. Alignment can be tested with the [testBraccio90 sketch](https://github.com/arduino-libraries/Braccio/blob/master/examples/testBraccio90/testBraccio90.ino), which should orient the arm in a vertical position. 
 
-![alignment](/Users/williamlaney/Documents/Side Projects/Braccio/images/alignment.jpg)
+![alignment](images/alignment.jpg)
 
 Realigning the arm is possible, but from the point pictured may require significant disassembly to reach the lower servos. 
 
